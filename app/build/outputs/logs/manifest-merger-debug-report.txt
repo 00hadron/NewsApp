@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a4ea539109352a60b7149f199c51ae26\navigation-ui-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\148233c4433d0aae12f702a49068b798\navigation-ui-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8c4611964a07a391d018dba26df6d3c6\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d7ac00cb8350455079d2286b36721a7\navigation-fragment-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\21fd9534db1c8e8d0c53aa3d4ea5bba2\jetified-fragment-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\f228b9cf4bf24561ba656071f187377e\navigation-runtime-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\0b2d6b74be25fe464b79a6ac940cb9ec\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\fd03464afc082a0e3fda1cee77d5f16c\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d61453b771e1f7a766c816cdb1981aca\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\55e2fc046d0a5a1058e6989086035833\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d8c082de770acf613f38076c1fb94352\jetified-room-ktx-2.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\89c1c3f9b36f61eff31141d1b7407650\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d885aae9b8fb6fa7bafb2b48a1fade4\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\c7ba915f53165d23585221e82e647b66\navigation-common-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9c8cc2212dd02ead0a86a1b59fe48dc9\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\3374a6e980da2e27232a243836093c2e\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36b4a82e75cf3474b3b34003da8a614f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\54379b4a27c4672fbbf055c7bfbf8421\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\318a959d2500e997892323f85f0b2c0a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d6ee61ba11492251667c60be0f3d5bd7\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\170e8c2877b73d674cf7740ca1477dcd\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a901544cebd1112f9e0a0852714e9fe7\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b790385bf856e16bc2b8c1e945e1fe22\navigation-fragment-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\395344e2fbaf694294efd268823fafbf\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\cb6f238f2bd76f011ff58c0374945586\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\bf3ac4ef370bb3fdc240c59d1cff4508\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\13b27743452937ae42c3ea167965e8d4\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\58a86b532fd997f028e3943546c46b65\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\280060b6b2e83205657795f30543478c\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\aefe9bcabc217351e87c4104ed7c5bdf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\ac00e133755c2bc9a96ae3e94e198d6b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\e2208cd79f4e149de3d8836044f8d4f1\navigation-runtime-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\2cc64117e2ab4e928377e147ca112a69\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\722075b7542b17e13dc7487a40577009\navigation-common-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d93c28fa1ab0e56835c1b4c44855b2f3\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\10eb904ba27b55484a023d7148cfa07a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\616cb4b40c21e5ff72d9424c8c5d9831\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d565b993494aafa2d04138b0b7d389f7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\f7c4d5b451c425ee5d4b3021b86313ce\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\76044d5f505ddf352362b0cca7257cb3\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\aeb542ba5d417d514a58ce55872e392f\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\874a0308c92d26ca28eb5bd33fcfa929\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\02de6b49fde64c91414be13930070c5d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b02ed390f8aac2856c0b43fe8906c4a5\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\65194c50c7a5b1e17f479fbcf12d0d0c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\c36b5dfdffee16071afc170c3d3c5891\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\649f9e11d399121d10ef86714ecd882d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\5f19213e0abb95744b2caadc8c615416\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\77538b7b4e58609576f4efd59526fee0\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\70e822b22adf6b2148a2adf8fce121f7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\db958c440ca16a16fefd270b155b7031\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\17d55a1c600241ddea95bc650e95767e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\87e69bda5b859058a6a1bb38c6a4f9e7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d61453b771e1f7a766c816cdb1981aca\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d61453b771e1f7a766c816cdb1981aca\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d885aae9b8fb6fa7bafb2b48a1fade4\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d885aae9b8fb6fa7bafb2b48a1fade4\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\874a0308c92d26ca28eb5bd33fcfa929\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\874a0308c92d26ca28eb5bd33fcfa929\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b02ed390f8aac2856c0b43fe8906c4a5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b02ed390f8aac2856c0b43fe8906c4a5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:11:9-40
+activity#ru.hadron.newsapp.ui.NewsActivity
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:12:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a4ea539109352a60b7149f199c51ae26\navigation-ui-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a4ea539109352a60b7149f199c51ae26\navigation-ui-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\148233c4433d0aae12f702a49068b798\navigation-ui-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\148233c4433d0aae12f702a49068b798\navigation-ui-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8c4611964a07a391d018dba26df6d3c6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8c4611964a07a391d018dba26df6d3c6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d7ac00cb8350455079d2286b36721a7\navigation-fragment-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d7ac00cb8350455079d2286b36721a7\navigation-fragment-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\21fd9534db1c8e8d0c53aa3d4ea5bba2\jetified-fragment-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\21fd9534db1c8e8d0c53aa3d4ea5bba2\jetified-fragment-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\f228b9cf4bf24561ba656071f187377e\navigation-runtime-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\f228b9cf4bf24561ba656071f187377e\navigation-runtime-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\0b2d6b74be25fe464b79a6ac940cb9ec\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\0b2d6b74be25fe464b79a6ac940cb9ec\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\fd03464afc082a0e3fda1cee77d5f16c\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\fd03464afc082a0e3fda1cee77d5f16c\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d61453b771e1f7a766c816cdb1981aca\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d61453b771e1f7a766c816cdb1981aca\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\55e2fc046d0a5a1058e6989086035833\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\55e2fc046d0a5a1058e6989086035833\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d8c082de770acf613f38076c1fb94352\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d8c082de770acf613f38076c1fb94352\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\89c1c3f9b36f61eff31141d1b7407650\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\89c1c3f9b36f61eff31141d1b7407650\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d885aae9b8fb6fa7bafb2b48a1fade4\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\7d885aae9b8fb6fa7bafb2b48a1fade4\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\c7ba915f53165d23585221e82e647b66\navigation-common-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\c7ba915f53165d23585221e82e647b66\navigation-common-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9c8cc2212dd02ead0a86a1b59fe48dc9\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9c8cc2212dd02ead0a86a1b59fe48dc9\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\3374a6e980da2e27232a243836093c2e\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\3374a6e980da2e27232a243836093c2e\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36b4a82e75cf3474b3b34003da8a614f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36b4a82e75cf3474b3b34003da8a614f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\54379b4a27c4672fbbf055c7bfbf8421\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\54379b4a27c4672fbbf055c7bfbf8421\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\318a959d2500e997892323f85f0b2c0a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\318a959d2500e997892323f85f0b2c0a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d6ee61ba11492251667c60be0f3d5bd7\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d6ee61ba11492251667c60be0f3d5bd7\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\170e8c2877b73d674cf7740ca1477dcd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\170e8c2877b73d674cf7740ca1477dcd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a901544cebd1112f9e0a0852714e9fe7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a901544cebd1112f9e0a0852714e9fe7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b790385bf856e16bc2b8c1e945e1fe22\navigation-fragment-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b790385bf856e16bc2b8c1e945e1fe22\navigation-fragment-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\395344e2fbaf694294efd268823fafbf\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\395344e2fbaf694294efd268823fafbf\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\cb6f238f2bd76f011ff58c0374945586\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\cb6f238f2bd76f011ff58c0374945586\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\bf3ac4ef370bb3fdc240c59d1cff4508\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\bf3ac4ef370bb3fdc240c59d1cff4508\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\13b27743452937ae42c3ea167965e8d4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\13b27743452937ae42c3ea167965e8d4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\58a86b532fd997f028e3943546c46b65\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\58a86b532fd997f028e3943546c46b65\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\280060b6b2e83205657795f30543478c\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\280060b6b2e83205657795f30543478c\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\aefe9bcabc217351e87c4104ed7c5bdf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\aefe9bcabc217351e87c4104ed7c5bdf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\ac00e133755c2bc9a96ae3e94e198d6b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\ac00e133755c2bc9a96ae3e94e198d6b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\e2208cd79f4e149de3d8836044f8d4f1\navigation-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\e2208cd79f4e149de3d8836044f8d4f1\navigation-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\2cc64117e2ab4e928377e147ca112a69\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\2cc64117e2ab4e928377e147ca112a69\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\722075b7542b17e13dc7487a40577009\navigation-common-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\722075b7542b17e13dc7487a40577009\navigation-common-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d93c28fa1ab0e56835c1b4c44855b2f3\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d93c28fa1ab0e56835c1b4c44855b2f3\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\10eb904ba27b55484a023d7148cfa07a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\10eb904ba27b55484a023d7148cfa07a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\616cb4b40c21e5ff72d9424c8c5d9831\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\616cb4b40c21e5ff72d9424c8c5d9831\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d565b993494aafa2d04138b0b7d389f7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d565b993494aafa2d04138b0b7d389f7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\f7c4d5b451c425ee5d4b3021b86313ce\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\f7c4d5b451c425ee5d4b3021b86313ce\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\76044d5f505ddf352362b0cca7257cb3\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\76044d5f505ddf352362b0cca7257cb3\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\aeb542ba5d417d514a58ce55872e392f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\aeb542ba5d417d514a58ce55872e392f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\874a0308c92d26ca28eb5bd33fcfa929\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\874a0308c92d26ca28eb5bd33fcfa929\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\02de6b49fde64c91414be13930070c5d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\02de6b49fde64c91414be13930070c5d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b02ed390f8aac2856c0b43fe8906c4a5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\b02ed390f8aac2856c0b43fe8906c4a5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\65194c50c7a5b1e17f479fbcf12d0d0c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\65194c50c7a5b1e17f479fbcf12d0d0c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\c36b5dfdffee16071afc170c3d3c5891\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\c36b5dfdffee16071afc170c3d3c5891\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\649f9e11d399121d10ef86714ecd882d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\649f9e11d399121d10ef86714ecd882d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\5f19213e0abb95744b2caadc8c615416\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\5f19213e0abb95744b2caadc8c615416\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\77538b7b4e58609576f4efd59526fee0\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\77538b7b4e58609576f4efd59526fee0\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\70e822b22adf6b2148a2adf8fce121f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\70e822b22adf6b2148a2adf8fce121f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\db958c440ca16a16fefd270b155b7031\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\db958c440ca16a16fefd270b155b7031\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\17d55a1c600241ddea95bc650e95767e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\17d55a1c600241ddea95bc650e95767e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\87e69bda5b859058a6a1bb38c6a4f9e7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\87e69bda5b859058a6a1bb38c6a4f9e7\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\8562cf50393f4527bda4fcbd1ade8e2a\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
