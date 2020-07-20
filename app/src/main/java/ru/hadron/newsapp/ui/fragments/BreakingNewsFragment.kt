@@ -57,6 +57,7 @@ class BreakingNewsFragment : Fragment(R.layout.fragment_breaking_news) {
     private fun hideProgressBar() {
         paginationProgressBar.visibility = View.INVISIBLE
     }
+
     private fun showProgressBar() {
         paginationProgressBar.visibility = View.VISIBLE
     }
