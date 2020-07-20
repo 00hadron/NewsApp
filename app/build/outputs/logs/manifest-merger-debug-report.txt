@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\a4ea539109352a60b7149f199c51ae26\navigation-ui-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\148233c4433d0aae12f702a49068b798\navigation-ui-2.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -60,25 +60,29 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hadron\.gradle\caches\tr
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\db958c440ca16a16fefd270b155b7031\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\17d55a1c600241ddea95bc650e95767e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\87e69bda5b859058a6a1bb38c6a4f9e7\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:3:5-32
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:3:1-28
 		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
 		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:5:1-63
+	android:name
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:5:18-60
 application
-ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:7:1-21:15
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\36abcaa73b9d166aee568c0a9ad6c99c\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\d61453b771e1f7a766c816cdb1981aca\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -96,31 +100,31 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ha
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\hadron\.gradle\caches\transforms-2\files-2.1\9e2b556aa6989d9441af8c08f1bc7061\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:12:5-31
 	android:label
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:10:5-37
 	android:roundIcon
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:11:5-50
 	android:icon
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:9:5-39
 	android:allowBackup
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:8:5-31
 	android:theme
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:13:5-36
 activity#ru.hadron.newsapp.ui.NewsActivity
-ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:14:5-20:16
 	android:name
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:12:19-67
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:14:15-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:15:9-19:25
 action#android.intent.action.MAIN
-ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:16:13-65
 	android:name
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:16:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:18:13-73
 	android:name
-		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml:18:23-70
 uses-sdk
 INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\projects\kotlin-NewsApp-mvvm\app\src\main\AndroidManifest.xml
