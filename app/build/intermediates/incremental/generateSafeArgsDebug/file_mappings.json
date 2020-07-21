@@ -1,1 +1,1 @@
-[{"navFile":"src\\main\\res\\navigation\\news_nav_graph.xml","javaFiles":["ru.hadron.newsapp.ui.fragments.SavedNewsFragmentDirections","ru.hadron.newsapp.ui.fragments.BreakingNewsFragmentDirections","ru.hadron.newsapp.ui.fragments.SearchNewsFragmentDirections"]}]
+[{"navFile":"src\\main\\res\\navigation\\news_nav_graph.xml","javaFiles":["ru.hadron.newsapp.ui.fragments.SavedNewsFragmentDirections","ru.hadron.newsapp.ui.fragments.ArticleFragmentArgs","ru.hadron.newsapp.ui.fragments.BreakingNewsFragmentDirections","ru.hadron.newsapp.ui.fragments.SearchNewsFragmentDirections"]}]
